@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	Fork for git exists only on github. I can use fork to clone github repository when I don't have permission to contribute to existing repository.
 	Clone creates cope of existing repository and I can sync clones with push and pull commands.
 	Branch is logical part of repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	If I have latest copy, the next time I pull changes it will be fast-forward merge.
