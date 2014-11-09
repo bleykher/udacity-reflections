@@ -5,3 +5,9 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	
 	I have no idea. Autosync could be awesome feature if it would properly implemented.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Fork for git exists only on github. I can use fork to clone github repository when I don't have permission to contribute to existing repository.
+	Clone creates cope of existing repository and I can sync clones with push and pull commands.
+	Branch is logical part of repository.
